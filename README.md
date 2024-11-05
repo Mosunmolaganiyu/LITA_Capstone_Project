@@ -1,6 +1,6 @@
 # LITA_Capstone_Project
 
-### Project Title: Capstone Project
+### Project Title: Capstone Project (Sales Data and Customer Data)
 
 ### Project Outline
 
