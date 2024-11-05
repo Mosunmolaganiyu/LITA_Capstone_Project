@@ -20,6 +20,10 @@
 
 [Data Visualization](#data-visualization)
 
+### Project Overview
+---
+  - Sales Data: The sales dataset contains transactional sales data, offering a comprehensive view of customer orders, including details on products, regions, and revenue. It is well-suited for analyzing sales trends and regional performance, providing insights into revenue and high demand products.
+
 
 
 
