@@ -26,5 +26,23 @@
 
   - Customer Data: This dataset offers an in-depth analysis of customer subscription patterns and revenue, uncovering key drivers behind trends and preferred subscriptions across diverse customer groups.
 
+### Data Sources
+---
+The primary sources of the Data used are "Data Sales.cvs" and "Customer .csv" files, which were provided on the Ladies in Tech. LMS platform specifically for the purpose of this project.
+
+### Tools Used
+Below are the tools used for this project;
+  - Microsoft Excel
+
+      1. For Data Cleaning
+      2. For Analysis
+      3. For Data Visualization
+
+  - SQL: Structured Query Language for Querying of Data
+  - Power BI
+
+      1. For Data Cleaning
+      2. For Data Visualization.
+
 
 
