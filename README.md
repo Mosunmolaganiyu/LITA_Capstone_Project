@@ -65,5 +65,20 @@ EDA involved the exploratory of the Data to answer some questions about the data
     5. Calculate monthly sales totals.
     6. Find the top 3 customers by total purchase amount.
 
+ - For Customer Data
+   1. Retrieve the total number of customers from each region.
+   2. Find the most popular subscription type by the number of customers.
+   3. Find customers who canceled their subscription within 6 months.
+   4. Calculate the average subscription duration for all customers.
+   5. Find customers with subscriptions longer than 12 months.
+   6. Calculate total revenue by subscription type.
+   7. Find the top 3 regions by subscription cancellations.
+   8. Find the total number of active and canceled subscriptions.
+
+### Data Analysis
+---
+This is where some basic lines of code or queries or even some of the DAX expressions used during the analysis were included;
+
+
 
 
