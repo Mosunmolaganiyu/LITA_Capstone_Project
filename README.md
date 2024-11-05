@@ -31,6 +31,7 @@
 The primary sources of the Data used are "Data Sales.cvs" and "Customer .csv" files, which were provided on the Ladies in Tech. LMS platform specifically for the purpose of this project.
 
 ### Tools Used
+---
 Below are the tools used for this project;
   - Microsoft Excel
 
@@ -45,14 +46,15 @@ Below are the tools used for this project;
       2. For Data Visualization.
 
 ### Data Cleaning and Preparations
-In the intial phase of Data Cleaning and Preparations, we perform the following action;
+---
+In the intial phase of the Data Cleaning and Preparations, the following action was performed;
 
  - Data loading and Inspection
-Handling missing variables
-
+ - Handling missing variables
  - Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
+---
 EDA involved the exploratory of the Data to answer some questions about the data such as;
 
  - For Sales Data
