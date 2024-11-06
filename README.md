@@ -89,7 +89,8 @@ SELECT * FROM TABLETABLE = Customerdata
 
 ### Data Visualization
 
-Screenshot (27).png
+![image](https://github.com/user-attachments/assets/c56b2e69-1e79-4b68-9da6-e33c48a1da4f)
+
 
 
 
