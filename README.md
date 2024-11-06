@@ -62,7 +62,7 @@ EDA involved the exploratory of the Data to answer some questions about the data
     2. Find the number of sales transactions in each region.
     3. Find the highest-selling product by total sales value.
     4. Calculate total revenue per product.
-    5. Calculate monthly sales totals.
+    5. Calculate total monthly sales.
     6. Find the top 3 customers by total purchase amount.
 
  - For Customer Data
