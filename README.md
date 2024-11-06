@@ -87,6 +87,9 @@ SELECT * FROM TABLENAME = Salesdata
 SELECT * FROM TABLETABLE = Customerdata
 ```
 
+### Data Visualization
+---
+
 
 
 
