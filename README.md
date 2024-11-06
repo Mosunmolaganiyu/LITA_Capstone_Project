@@ -79,6 +79,14 @@ EDA involved the exploratory of the Data to answer some questions about the data
 ---
 This is where some basic lines of code or queries or even some of the DAX expressions used during the analysis were included;
 
+```SQL
+SELECT * FROM TABLENAME = Salesdata
+```
+
+```SQL
+SELECT * FROM TABLETABLE = Customerdata
+```
+
 
 
 
